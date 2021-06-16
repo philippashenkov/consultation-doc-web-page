@@ -24,11 +24,11 @@ function Calendar(){
                 <div className="header-title">Возможная дата</div>
                 <div className="switch-button">
                     <button className="switch-button__icon">
-                    <ion-icon name="calendar-outline"></ion-icon>
+                    
                     </button>
                     
                     <button className="switch-button__icon">
-                    <ion-icon className="calendar-outline"></ion-icon>
+                    
                     </button>
                 </div>
             </div>
